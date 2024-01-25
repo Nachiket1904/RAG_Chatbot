@@ -1,4 +1,3 @@
-# RAG_Chatbot
 # RAG QA Bot with OpenAI and ChromaDB
 
 This project integrates a Retrieval Augmented Generation (RAG) approach to build a sophisticated Question Answering (QA) Bot. It combines the capabilities of OpenAI's language models with ChromaDB for efficient data retrieval, offering insightful and contextually relevant answers to various queries.
@@ -20,3 +19,4 @@ The RAG QA Bot is designed to fetch pertinent information from a structured data
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+
